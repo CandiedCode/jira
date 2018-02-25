@@ -1,0 +1,7 @@
+# Set the default line endings to be LF.
+* text eol=lf
+
+# Make sure images do not get their line endings changed
+*.jpg binary
+*.png binary
+*.zip binary
